@@ -8,5 +8,9 @@
 
 **Link to work:** [None for today - Just playing around creating classes and instances]
 
-### Day 2: February 29, 2019 
+### Day 2: February 29, 2019
+**Today's Progress**: Discovered Freecodecamp Frontend development path - started first part
 
+**Thoughts:** This is great. I finally have a place to start and it's a clear path which was what I was struggling to carve out for myself.
+
+**Link to work:**
