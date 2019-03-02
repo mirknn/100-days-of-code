@@ -8,9 +8,16 @@
 
 **Link to work:** [None for today - Just playing around creating classes and instances]
 
-### Day 2: February 29, 2019
+### Day 2: March 1, 2019
 **Today's Progress**: Discovered Freecodecamp Frontend development path - started first part
 
 **Thoughts:** Even though I feel silly doing such basic stuff - it's kind of fun to just start from the beginning again.
+
+**Link to work:**
+
+### Day 3:  March 2, 2019
+**Today's Progress**: Played around with Ionic
+
+**Thoughts:** 
 
 **Link to work:**
