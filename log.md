@@ -11,6 +11,6 @@
 ### Day 2: February 29, 2019
 **Today's Progress**: Discovered Freecodecamp Frontend development path - started first part
 
-**Thoughts:** This is great. I finally have a place to start and it's a clear path which was what I was struggling to carve out for myself.
+**Thoughts:** Even though I feel silly doing such basic stuff - it's kind of fun to just start from the beginning again.
 
 **Link to work:**
