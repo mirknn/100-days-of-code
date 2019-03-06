@@ -25,14 +25,13 @@
 /
 
 ### Day 5:  March 4, 2019
-**Today's Progress**: Ionic login - more of this
+**Today's Progress**: Ionic login page - trying to set up 
 
 **Thoughts:** 
 /
 
 ### Day 6:  March 5, 2019
-**Today's Progress**: 
-
+**Today's Progress**: Ionic login page - trying to set up
 **Thoughts:** 
 /
 
