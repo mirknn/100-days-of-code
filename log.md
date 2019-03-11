@@ -32,17 +32,11 @@
 
 ### Day 6:  March 5, 2019
 **Today's Progress**: Ionic login page - trying to set up
-**Thoughts:** 
+**Thoughts:** None of great importance 
 /
 
 ### Day 7:  March 6, 2019
-**Today's Progress**: 
+**Today's Progress**: Ionic app project going well. worked on user roles and authentication today.
 
 **Thoughts:** 
-/
-
-### Day 8:  March 7, 2019
-**Today's Progress**: 
-
-**Thoughts:** 
-/
+/Today marks a week since I've started this challenge. I've decided that the logging process takes too long and is eating up my coding time! I will be contributing but not logging. I will be committing to different projects in my GitHub, not just this one directory.
